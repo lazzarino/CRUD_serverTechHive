@@ -540,19 +540,14 @@ app.get("/api/getArniaByDate/:id", async (req, res, next) => {
     let db = client.db(DBNAME).collection("arnie")
     let request = db.findOne({ "_id": arniaId })
     request.then((data) => {
+        let datiCorretti=[]
         for (let [i, dato] of data.dati.entries()) {
             let dataConfronto = new Date(new Date(dato.data).toISOString().split("T")[0])
             if (dataConfronto >= from && dataConfronto <= to) {
-                //console.log("OK")
+                datiCorretti.push(dato)
             }
-            else {
-                //onsole.log("NOK")
-                data.dati = data.dati.splice(i, 1)
-            }
-
-
         }
-        //console.log(data)
+        data.dati=datiCorretti
         res.send(data)
     })
     request.catch((err) => {
