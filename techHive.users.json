@@ -1,0 +1,77 @@
+[{
+  "_id": {
+    "$oid": "65e49fbed34c765b5c9f5cf2"
+  },
+  "username": "Negro",
+  "password": "$2a$10$6WWWiqyueoT0DzUTFFYDjedySxKOcuFXZABAVw2cF1Q7UU7Rd9TJC",
+  "passwordInChiaro": "Sesso21",
+  "administrator": false,
+  "cognome": "Nigga",
+  "nome": "Nigga",
+  "dob": {
+    "$date": "1970-02-24T00:00:00.000Z"
+  },
+  "email": "lazzarinopaolo@gmail.com",
+  "image": "https://res.cloudinary.com/dynk0pgsf/image/upload/v1715936730/techHive/users/hogl8zhh0oewcbrttdyi.jpg",
+  "pob": "Cosenza"
+},
+{
+  "_id": {
+    "$oid": "65eae6f47d576f82bd55ff35"
+  },
+  "username": "admin",
+  "password": "$2a$10$npVrxieqUEaeAybnhsFue.qpQ1c4sMxanFpLgRi7LBLgfo1n5aPuG",
+  "administrator": true,
+  "passwordInChiaro": "Sas2C"
+},
+{
+  "_id": {
+    "$oid": "66461e51d809d3cdef174eaf"
+  },
+  "nome": "Pippo",
+  "cognome": "Baudo",
+  "dob": {
+    "$date": "2003-03-12T00:00:00.000Z"
+  },
+  "pob": "Scampia Napoli",
+  "username": "pischelloNabboli23",
+  "email": "lazarinopaolo@gmail.com",
+  "password": "$2a$10$kxG3sDwggPLF/jSK0NbNLevydp5xdP2PI0h9UvMxEmkZGdOzxOY7m",
+  "image": "https://res.cloudinary.com/dynk0pgsf/image/upload/v1715871312/techHive/users/biwhsvwvwp6viafzpb3y.jpg",
+  "passwordInChiaro": "Scampia33",
+  "administrator": false
+},
+{
+  "_id": {
+    "$oid": "6646218618ea7538a82e8b97"
+  },
+  "nome": "Dio",
+  "cognome": "Khan",
+  "dob": {
+    "$date": "1999-09-13T00:00:00.000Z"
+  },
+  "pob": "Burundi",
+  "username": "negro34",
+  "email": "negro34@saas.com",
+  "password": "$2a$10$5AT3I.3/BBWwNPDdXJ61Ae5lrfxwWza9XrmuP13JmzUQA1INGderS",
+  "image": "https://res.cloudinary.com/dynk0pgsf/image/upload/v1715875507/techHive/users/xhjlgeakowwlkjd1w0sb.png",
+  "passwordInChiaro": "boh",
+  "administrator": false
+},
+{
+  "_id": {
+    "$oid": "66471f0f2db4946fa1066a9e"
+  },
+  "nome": "Mina",
+  "cognome": "Manoamica",
+  "dob": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "pob": "Parco Ciro Esposito",
+  "username": "nonMiLavo33",
+  "email": "g.corneanu.2234@vallauri.edu",
+  "password": "$2a$10$HEkTtLTxXHS.FUcWGmq8MunQJWmtieLFAQC82HiEIK5b66AMWDHnK",
+  "image": "https://res.cloudinary.com/dynk0pgsf/image/upload/v1715937039/techHive/users/qxbl8ilc0zhbdkkokp85.jpg",
+  "passwordInChiaro": "VesuvioErutta1",
+  "administrator": false
+}]

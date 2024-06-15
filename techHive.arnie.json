@@ -1,0 +1,262 @@
+[{
+  "_id": {
+    "$oid": "6634be2c219c3419879f5019"
+  },
+  "nome": "Arnia Parco Ciro Esposito",
+  "stato": "OK",
+  "dati": [
+    {
+      "temperatura": "21",
+      "umidita": "89",
+      "peso": "4",
+      "data": {
+        "$date": "2024-03-01T11:38:00.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.899489134279484,
+        "lng": 14.242532026641397
+      }
+    },
+    {
+      "temperatura": "25",
+      "umidita": "40",
+      "peso": "3",
+      "data": {
+        "$date": "2024-03-01T11:38:00.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.899489134279484,
+        "lng": 14.242532026641397
+      }
+    },
+    {
+      "temperatura": "22.5",
+      "umidita": "40.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-01T11:38:00.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.899489134279484,
+        "lng": 14.242532026641397
+      }
+    },
+    {
+      "temperatura": "23.5",
+      "umidita": "40.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-01T11:38:00.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.899489134279484,
+        "lng": 14.242532026641397
+      }
+    },
+    {
+      "temperatura": "25.5",
+      "umidita": "40.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-01T11:38:00.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.899489134279484,
+        "lng": 14.242532026641397
+      }
+    },
+    {
+      "temperatura": "20.5",
+      "umidita": "29.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-01T11:38:00.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.899489134279484,
+        "lng": 14.242532026641397
+      }
+    },
+    {
+      "temperatura": "19.6",
+      "umidita": "29.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-01T11:38:00.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.899489134279484,
+        "lng": 14.242532026641397
+      }
+    },
+    {
+      "temperatura": "18.3",
+      "umidita": "29.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-01T11:38:00.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.899489134279484,
+        "lng": 14.242532026641397
+      }
+    },
+    {
+      "temperatura": "16.5",
+      "umidita": "29.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-01T11:38:00.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.899489134279484,
+        "lng": 14.242532026641397
+      }
+    }
+  ],
+  "users": [
+    {
+      "$oid": "65e49fbed34c765b5c9f5cf2"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6634be2c219c3419879f501a"
+  },
+  "nome": "Arnia Secondigliano",
+  "stato": "OK",
+  "dati": [
+    {
+      "temperatura": "21",
+      "umidita": "89",
+      "peso": "4",
+      "data": {
+        "$date": "2024-03-03T12:42:30.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.89124761883559,
+        "lng": 14.26735479989982
+      }
+    },
+    {
+      "temperatura": "25",
+      "umidita": "40",
+      "peso": "3",
+      "data": {
+        "$date": "2024-03-03T12:42:30.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.89124761883559,
+        "lng": 14.26735479989982
+      }
+    },
+    {
+      "temperatura": "22.5",
+      "umidita": "40.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-03T12:42:30.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.89124761883559,
+        "lng": 14.26735479989982
+      }
+    },
+    {
+      "temperatura": "23.5",
+      "umidita": "40.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-03T12:42:30.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.89124761883559,
+        "lng": 14.26735479989982
+      }
+    },
+    {
+      "temperatura": "25.5",
+      "umidita": "40.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-03T12:42:30.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.89124761883559,
+        "lng": 14.26735479989982
+      }
+    },
+    {
+      "temperatura": "20.5",
+      "umidita": "29.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-03T12:42:30.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.89124761883559,
+        "lng": 14.26735479989982
+      }
+    },
+    {
+      "temperatura": "19.6",
+      "umidita": "29.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-03T12:42:30.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.89124761883559,
+        "lng": 14.26735479989982
+      }
+    },
+    {
+      "temperatura": "18.3",
+      "umidita": "29.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-03T12:42:30.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.89124761883559,
+        "lng": 14.26735479989982
+      }
+    },
+    {
+      "temperatura": "16.5",
+      "umidita": "29.25",
+      "peso": 1.225,
+      "data": {
+        "$date": "2024-03-03T12:42:30.000Z"
+      },
+      "emergenza": false,
+      "coordinate": {
+        "lat": 40.89124761883559,
+        "lng": 14.26735479989982
+      }
+    }
+  ],
+  "users": [
+    {
+      "$oid": "6646218618ea7538a82e8b97"
+    }
+  ]
+}]

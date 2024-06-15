@@ -1,0 +1,52 @@
+*{
+    margin:0;
+    padding:0;
+}
+html{
+    height: 100%;
+}
+body{
+    background-image:linear-gradient(to bottom right, rgb(61, 214, 81),rgb(123, 232, 134));
+    background-repeat: no-repeat;
+}
+.card{
+    margin-top: 25%;
+    width:425px;
+    border-radius: 20px;
+    background-color: rgb(172, 230, 230);
+}
+.card:nth-of-type(2){
+    max-width: none !important;
+    margin-top: 10px;
+    width: 425px !important;
+    padding-bottom: 20px;
+}
+.card>p>i{
+    margin-right: 10px;
+    
+}
+.card>.card-body{
+    padding: 30px;
+}
+#showPasswordIcon{
+    float: right;
+    display: inline;
+    margin-top: -40px;
+    margin-right: 10px;
+}
+#txtPassword{
+    padding-right: 30px;
+}
+.bi-person-circle{
+    float: right;
+    display: inline;
+    margin-top: -40px;
+    margin-right: 10px;
+}
+#txtUsername{
+    padding-right: 30px;
+}
+
+#btnCloseDivErrore{
+    margin-left: 3px;
+}
